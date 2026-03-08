@@ -8,7 +8,7 @@
 
 <div class="container">
 
-<h1>Heart Disease Prediction using Machine Learning</h1>
+<h1>Heart Disease Risk Prediction using Machine Learning</h1>
 
 <p>
 This project builds a machine learning model to predict the risk of heart disease
